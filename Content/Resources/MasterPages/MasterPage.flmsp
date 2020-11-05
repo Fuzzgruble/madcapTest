@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:miniTocProxy />
+        <MadCap:breadcrumbsProxy />
+        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+        <MadCap:bodyProxy />
+        <p>Copyright 2020, MadTravel, Inc.</p>
+    </body>
+</html>

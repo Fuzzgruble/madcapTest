@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" IncludePattern="*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf;*.flskn;*.css" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" LastImport="2020-11-05T15:20:44.2610608-06:00">
+    <Files>
+        <Url Source="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Soledad.flprj" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Soledad.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../Training/Soledad/Content/Soledad Template Reference Document.pdf" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Soledad Template Reference Document.pdf" />
+        <Url Source="../Training/Soledad/Content/Template Instructions.pdf" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Template Instructions.pdf" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Hero-Image.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Hero-Image.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Icon-Circle1.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Icon-Circle1.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Icon-Circle2.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Icon-Circle2.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Icon-Facebook.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Icon-Facebook.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Icon-Twitter.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Icon-Twitter.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Logo.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Logo.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Minus.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Minus.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Plus.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Plus.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-2.jpg" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-2.jpg" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-3.jpg" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-3.jpg" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-black.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-black.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+        <Url Source="../Training/Soledad/Content/Resources/Stylesheets/MainStyles.css" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Stylesheets/MainStyles.css" />
+        <Url Source="../Training/Soledad/Content/Resources/Stylesheets/StylesForHomePage.css" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Content/Resources/Stylesheets/StylesForHomePage.css" />
+        <Url Source="../Training/Soledad/Project/Skins/HTML5 - Top Navigation.flskn" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Project/Skins/HTML5 - Top Navigation.flskn" />
+        <Url Source="../Training/Soledad/Project/Skins/SearchHome.flskn" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Project/Skins/SearchHome.flskn" />
+        <Url Source="../Training/Soledad/Project/Skins/SideMenu.flskn" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Project/Skins/SideMenu.flskn" />
+        <Url Source="../Training/Soledad/Project/Skins/TopicToolBar.flskn" AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/Training/Soledad/Project/Skins/TopicToolBar.flskn" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/Soledad Template Reference Document.pdf" TimeStamp="11/5/2020 10:26:46 AM" />
+        <Url Source="Content/Template Instructions.pdf" TimeStamp="11/4/2020 2:12:17 PM" />
+        <Url Source="Content/Resources/Images/Hero-Image.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Icon-Circle1.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Icon-Circle2.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Icon-Facebook.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Icon-Twitter.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Logo.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Minus.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Plus.png" TimeStamp="11/4/2020 2:12:16 PM" />
+        <Url Source="Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/HeroStockImages/HeroImage-2.jpg" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/HeroStockImages/HeroImage-3.jpg" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-black.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Stylesheets/MainStyles.css" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Content/Resources/Stylesheets/StylesForHomePage.css" TimeStamp="11/5/2020 10:26:45 AM" />
+        <Url Source="Project/Skins/HTML5 - Top Navigation.flskn" TimeStamp="11/5/2020 10:26:46 AM" />
+        <Url Source="Project/Skins/SearchHome.flskn" TimeStamp="11/5/2020 10:26:46 AM" />
+        <Url Source="Project/Skins/SideMenu.flskn" TimeStamp="11/5/2020 10:26:46 AM" />
+        <Url Source="Project/Skins/TopicToolBar.flskn" TimeStamp="11/5/2020 10:26:46 AM" />
+    </GeneratedFiles>
+</CatapultProject>
